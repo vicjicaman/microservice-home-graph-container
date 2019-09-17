@@ -40,10 +40,10 @@
     redis "^2.8.0"
     redis-parser "^3.0.0"
 
-"@nebulario/microservice-home-graph@1.70.0-home-service-prod":
-  version "1.70.0-home-service-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-graph/-/microservice-home-graph-1.70.0-home-service-prod.tgz#b1266131dc778756e1baeaeb8487d6df2e065547"
-  integrity sha512-j9qbQ13LCeA3gQhKkMAZSM4jVVxeFD3TP4yEkroFJDtmkuV5ZtAHxVOAg0I3sooemuwtzm6gAdNpX6pm29zr2w==
+"@nebulario/microservice-home-graph@1.70.0-master":
+  version "1.70.0-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-graph/-/microservice-home-graph-1.70.0-master.tgz#c974871503dd0df39b5f7184b233e4cc3ed20c5d"
+  integrity sha512-NPCKAiCBkJGkh95fXTfChmPwVC+R8GaSILvsv4fR4m0CBQCvT1UGWcch+b4uQcKn7szQYzLbUxLO5V6YNg0AEQ==
   dependencies:
     "@babel/runtime" "^7.6.0"
     "@babel/runtime-corejs3" "^7.6.0"
