@@ -40,9 +40,31 @@
     redis "^2.8.0"
     redis-parser "^3.0.0"
 
-"@nebulario/microservice-home-graph@link:../microservice-home-graph":
-  version "0.0.0"
-  uid ""
+"@nebulario/microservice-home-graph@1.70.0-auth-home-config-prod":
+  version "1.70.0-auth-home-config-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-graph/-/microservice-home-graph-1.70.0-auth-home-config-prod.tgz#a4e5740cbbef68f933e7c07d283b05249f0a3e10"
+  integrity sha512-9EyzAqHKJIlN/KV4C/su1nHJ4JgD3RIo8i5t+yatNkBh0XnPaUerYeDOjBJin7lGX2A9UJApjYTc1efy1odwVg==
+  dependencies:
+    "@babel/runtime" "^7.6.0"
+    "@babel/runtime-corejs3" "^7.6.0"
+    "@nebulario/microservice-auth-common" "1.70.1-master"
+    "@nebulario/microservice-utils" "^1.70.0-master"
+    dotenv "^7.0.0"
+    express "^4.16.4"
+    express-graphql "^0.7.1"
+    graphql "^14.2.0"
+    graphql-iso-date "^3.6.1"
+    graphql-tools "^4.0.4"
+    graphql-tools-types "^1.2.1"
+    mongoose "^5.6.12"
+
+"@nebulario/microservice-utils@^1.70.0-master":
+  version "1.70.0-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-utils/-/microservice-utils-1.70.0-master.tgz#0a477aea686f3779d8fb85deb2cb785520ee966f"
+  integrity sha512-Qm1E2iMtabHiCuEDlbgxpG5s2ujTnUJvvMRu4lf4nH/Ut/JCVwsdMJ1VVz3d/4zgT8QFkDKFnlxkF1h8pFakSA==
+  dependencies:
+    "@babel/runtime" "^7.6.0"
+    "@babel/runtime-corejs3" "^7.6.0"
 
 "@wry/equality@^0.1.2":
   version "0.1.9"
