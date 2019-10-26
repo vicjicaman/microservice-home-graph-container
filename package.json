@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservice-home-graph": "1.70.2-home-intro-prod"
+    "@nebulario/microservice-home-graph": "link:./../microservice-home-graph"
   }
 }
