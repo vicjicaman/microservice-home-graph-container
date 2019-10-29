@@ -52,26 +52,9 @@
     async-redis "^1.1.7"
     uuid "^3.3.3"
 
-"@nebulario/microservice-home-graph@1.70.3-master":
-  version "1.70.3-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-graph/-/microservice-home-graph-1.70.3-master.tgz#335dad3cfdb7b9f91a4291f1407aa153e203f016"
-  integrity sha512-vZhIt5uehpzfwuMZNrQ3vNH3gY91PHT5P0DFHgJmygdMgQfqoBKs1pUFVB2ZEr6dtH9VtPEkcwmQTe/oPUIdjA==
-  dependencies:
-    "@babel/runtime" "^7.6.0"
-    "@babel/runtime-corejs3" "^7.6.0"
-    "@nebulario/microservice-auth-common" "1.70.1-master"
-    "@nebulario/microservice-graph-common" "1.70.2-master"
-    "@nebulario/microservice-logger" "1.70.0-master"
-    "@nebulario/microservice-utils" "1.70.0-master"
-    axios "^0.19.0"
-    dotenv "^7.0.0"
-    express "^4.16.4"
-    express-graphql "^0.7.1"
-    graphql "^14.2.0"
-    graphql-iso-date "^3.6.1"
-    graphql-tools "^4.0.4"
-    graphql-tools-types "^1.2.1"
-    mongoose "^5.6.12"
+"@nebulario/microservice-home-graph@link:../microservice-home-graph":
+  version "0.0.0"
+  uid ""
 
 "@nebulario/microservice-logger@1.70.0-master":
   version "1.70.0-master"
