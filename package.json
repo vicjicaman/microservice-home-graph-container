@@ -1,8 +1,0 @@
-{
-  "name": "container",
-  "description": "",
-  "license": "MIT",
-  "dependencies": {
-    "@nebulario/microservice-home-graph": "1.70.3-master"
-  }
-}

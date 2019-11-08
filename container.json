@@ -1,4 +1,9 @@
 {
   "name": "repoflow/microservice-home-graph-container",
-  "version": "1.70.3-master"
+  "version": "1.70.3-master",
+  "source": {
+    "type": "npm",
+    "fullname": "@nebulario/microservice-home-graph",
+    "version": "1.70.4-master"
+  }
 }
